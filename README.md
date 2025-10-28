@@ -9,10 +9,15 @@ To draw the UML diagram for ATM and Banking System
 List of Programs:
 
 i) Usecase Diagram
+
 ii)Class Diagram
+
 iii)Activity Diagram
+
 iv)Communication Diagram
+
 v)Package Diagram
+
 vi)Sequence Diagram
 
 # DIAGRAMS:
