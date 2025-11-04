@@ -1,5 +1,5 @@
 # Exp-1 ATM & BANKING SYSTEM
-# Name: Isaac Raja T
+# Name: ISAAC RAJA T
 # Register Number: 212224040123
 
 # AIM:
